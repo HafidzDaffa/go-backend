@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.darwin
+*.freebsd
+*.linux
+*.netbsd
+*.openbsd
+*.plan9
+*.solaris
+*.windows
+
+# Dependency directories
+vendor/
+go.sum
+go.mod
+
+# Environment variables
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Build outputs
+/dist/
+/build/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

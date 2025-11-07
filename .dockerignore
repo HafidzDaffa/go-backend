@@ -1,0 +1,7 @@
+.git
+.gitignore
+.dockerignore
+.vendor
+Dockerfile
+docker-compose.yml
+README.md
